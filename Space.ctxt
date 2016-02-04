@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space()
+comment1.params=
+comment1.target=void\ countScore()
+comment1.text=\r\n\ Counts\ the\ score\r\n
+comment2.params=
+comment2.target=void\ gameOver()
+comment2.text=\r\n\ This\ method\ is\ called\ when\ the\ game\ is\ over\ to\ display\ the\ final\ score.\r\n
+numComments=3
